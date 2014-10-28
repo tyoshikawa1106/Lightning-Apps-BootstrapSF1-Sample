@@ -1,0 +1,12 @@
+<aura:component>
+    <aura:attribute name="header" type="String" />
+    <aura:attribute name="detail" type="String" />
+	<div class="card">
+		<div class="card-heading">
+			{!v.header}
+		</div>
+		<div class="card-detail">
+			{!v.detail}
+		</div>
+    </div>
+</aura:component>
