@@ -10,27 +10,27 @@
         <!-- Cards -->
         <h2>Cards</h2>
         <BarnSwallow:BootstrapSF1Cards
-                                       header="ACME Publishing★"
-                                       detail="Details about this card can be placed in the card body."
-                                   />
+            header="ACME Publishing"
+            detail="Details about this card can be placed in the card body."
+        />
         
         <!-- Details -->
         <h2>Details</h2>
         <BarnSwallow:BootstrapSF1Details
-                                       header="ACME Publishing"
-                                       item1="Nonprofit Organization"
-                                       item2="Santa Barbara, CA"
-                                   />
+            header="ACME Publishing"
+            item1="Nonprofit Organization"
+            item2="Santa Barbara, CA"
+        />
         
         <!-- Label and value detail pairs -->
         <h2>Label and value detail pairs</h2>
         <BarnSwallow:BootstrapSF1LabelAndValueDetailPairs
-                                       header="ACME Publishing"
-                                       item1Label="Founded"
-                                       item1Value="1956"
-                                       item2Label="Budget"
-                                       item2Value="$10,000,000"
-                                   />
+            header="ACME Publishing"
+            item1Label="Founded"
+            item1Value="1956"
+            item2Label="Budget"
+            item2Value="$10,000,000"
+        />
         
         <!-- Contextual Cards -->
         <h2>Contextual Cards</h2>

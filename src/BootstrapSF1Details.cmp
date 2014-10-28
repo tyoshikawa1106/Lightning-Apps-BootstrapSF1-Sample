@@ -1,0 +1,14 @@
+<aura:component>
+    <aura:attribute name="header" type="String" />
+    <aura:attribute name="item1" type="String" />
+    <aura:attribute name="item2" type="String" />
+    <div class="card">
+        <div class="card-heading">
+            {!v.header}
+        </div>
+        <ul class="card-detail">
+            <li>{!v.item1}</li>
+            <li>{!v.item2}</li>
+        </ul>
+    </div>
+</aura:component>

@@ -1,0 +1,25 @@
+<aura:component>
+    <div class="card-list">
+        <div class="card-list-heading">
+            <h3>Organizations</h3>
+        </div>
+        <div class="card">
+            <div class="card-heading">
+                ACME Publishing
+            </div>
+            <ul class="card-detail ">
+                <li>Nonprofit Organization</li>
+                <li>Santa Barbara, CA</li>
+            </ul>
+        </div> <!-- end card -->
+        <div class="card">
+            <div class="card-heading">
+                Save the Cats
+            </div>
+            <ul class="card-detail ">
+                <li>Nonprofit Organization</li>
+                <li>Santa Barbara, CA</li>
+            </ul>
+        </div> <!-- end card -->
+    </div> <!-- end card list -->
+</aura:component>

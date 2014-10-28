@@ -1,0 +1,11 @@
+<aura:component>
+    <!-- Account -->
+    <div class="page-header page-header-compact context-account">
+        <h1><span class="page-header-label">recent</span> Accounts</h1>
+    </div>
+
+    <!-- Opportunities -->
+    <div class="page-header page-header-compact context-opportunity">
+        <h1>Opportunities <span class="page-header-label">14 results</span></h1>
+    </div>
+</aura:component>

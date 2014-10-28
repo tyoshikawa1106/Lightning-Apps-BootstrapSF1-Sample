@@ -1,0 +1,25 @@
+<aura:component>
+    <!-- Account -->
+    <div class="page-header page-header-anchor context-account">
+        <h1>ACME Publishing</h1>
+        <p>123 Some Street, San Francisco, CA, 93101</p>
+    </div>
+
+    <!-- Contact -->
+    <div class="page-header page-header-anchor context-contact">
+        <h1>Jason Blakemoth</h1>
+        <p>123 Some Street, San Francisco, CA, 93101</p>
+    </div>
+
+    <!-- Boat -->
+    <div class="page-header page-header-anchor context-c-boat">
+        <h1>HMS Shazam</h1>
+        <p>123 Some Street, San Francisco, CA, 93101</p>
+    </div>
+
+    <!-- Triangle -->
+    <div class="page-header page-header-anchor context-c-triangle">
+        <h1>Scheme</h1>
+        <p>123 Some Street, San Francisco, CA, 93101</p>
+    </div>
+</aura:component>

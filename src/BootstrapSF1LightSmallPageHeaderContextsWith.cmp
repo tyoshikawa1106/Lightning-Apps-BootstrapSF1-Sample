@@ -1,0 +1,6 @@
+<aura:component>
+    <!-- Leads -->
+    <div class="page-header page-header-compact page-header-transparent context-lead">
+        <h1>Leads <span class="page-header-label">14 results</span></h1>
+    </div>
+</aura:component>

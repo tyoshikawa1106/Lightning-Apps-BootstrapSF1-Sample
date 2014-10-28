@@ -1,0 +1,34 @@
+<aura:component>
+    <!-- Card for an Account -->
+    <div class="card context-account">
+        <div class="card-heading">
+            ACME Publishing
+        </div>
+        <ul class="card-detail ">
+            <li>Nonprofit Organization</li>
+            <li>Santa Barbara, CA</li>
+        </ul>
+    </div>
+
+    <!-- Card for Contact -->
+    <div class="card context-contact">
+        <div class="card-heading">
+            Jeffery Fisher
+        </div>
+        <ul class="card-detail ">
+            <li>Executive</li>
+            <li>Santa Barbara, CA</li>
+        </ul>
+    </div>
+
+    <!-- Custom context -->
+    <div class="card context-c-sailboat">
+        <div class="card-heading">
+            Timothy Lake
+        </div>
+        <ul class="card-detail ">
+            <li>Sailing Buddy</li>
+            <li>San Francisco, CA</li>
+        </ul>
+    </div>
+</aura:component>

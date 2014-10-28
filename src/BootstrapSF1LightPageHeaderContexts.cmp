@@ -1,0 +1,7 @@
+<aura:component>
+    <!-- Account -->
+    <div class="page-header context-account">
+        <h1>ACME Publishing</h1>
+        <p>123 Some Street, San Francisco, CA, 93101</p>
+    </div>
+</aura:component>
